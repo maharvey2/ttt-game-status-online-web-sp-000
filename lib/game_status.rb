@@ -15,7 +15,7 @@ WIN_COMBINATIONS = [
   [2,5,8] #down third column
   ]
 # so how do you win?
-def won?
+def won?(board)
   if position_taken(board,index)
   end
 
