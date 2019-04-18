@@ -15,9 +15,7 @@ WIN_COMBINATIONS = [
   [6,4,2]
 ]
 # so how do you win?
-def won?(board)
-  if position_taken(board,index)
-  end
+
 
 #full?
 
